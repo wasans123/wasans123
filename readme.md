@@ -15,7 +15,7 @@
 
 ## Contact me!
 - [ARK#1953](https://discord.com/users/532573864958623756)
-- [Github](https://github.com/UniqueDevStorm)
+- [Github](https://github.com/wasans123)
 
 ## My Stats
 ![Github](https://github-readme-stats.vercel.app/api?username=wasans123&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
