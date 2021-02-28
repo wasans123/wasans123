@@ -2,11 +2,11 @@
 > I'm a Korean student developer who's interested in game programming.
 
 ## Language
-![Python](/img/python.svg)
+![Python](<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>)
+![C#](<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>)
 
 ## UseProgram
-![Unity](/img/unity.svg)
-![VSC](/img/vsc.svg)
+![Unity](<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" >)
 
 ## My Projects
 - [Miniark Discord Bot](https://discord.com/api/oauth2/authorize?client_id=774280026958331905&permissions=1610477014&scope=bot)
