@@ -15,7 +15,7 @@
 - [Miniark Discord Bot](https://discord.com/api/oauth2/authorize?client_id=774280026958331905&permissions=1610477014&scope=bot)
 
 ## Contact me!
-![ARK#1953](https://img.shields.io/badge/-%EB%AA%A8%EB%A9%94MoMe%EF%BC%830500-7289da?logo=Discord&logoColor=white)
+
 
 ## My Github Stats
 ![Github](https://github-readme-stats.vercel.app/api?username=wasans123&show_icons=true&theme=radical&include_all_commits=true&count_private=true) ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=wasans123&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
