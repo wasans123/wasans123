@@ -1,4 +1,4 @@
-# Hello!
+# Hi there!👋
 > I'm a Korean student developer who's interested in game programming.
 
 ## Languages
