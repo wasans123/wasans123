@@ -14,11 +14,11 @@
 ## My Projects
 - [Miniark Discord Bot](https://discord.com/api/oauth2/authorize?client_id=774280026958331905&permissions=1610477014&scope=bot)
 
+## Contact
+- [wasans@blacklight.tk](mailto:wasans@blacklight.tk)
+
 ## My Github Stats
 ![Github](https://github-readme-stats.vercel.app/api?username=wasans123&show_icons=true&theme=radical&include_all_commits=true&count_private=true) ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=wasans123&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-## Contact
-[mailto](mailto:wasans@blacklight.tk)
 
 ## My Opensource Repositories
 ![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=wasans123&repo=Economy-Opensource&cache_seconds=86400&theme=radical)
