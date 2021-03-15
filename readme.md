@@ -16,6 +16,7 @@
 
 ## Contact
 - [wasans@blacklight.tk](mailto:wasans@blacklight.tk)
+- [wasans#1953](https://discord.com/users/532573864958623756)
 
 ## My Github Stats
 ![Github](https://github-readme-stats.vercel.app/api?username=wasans123&show_icons=true&theme=radical&include_all_commits=true&count_private=true) ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=wasans123&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
