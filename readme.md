@@ -1,15 +1,14 @@
 # Hi there!👋
 > I'm a Korean student developer who's interested in game programming.
 
-## Languages
-* C/C++ - Helps me study algorithm!
-* C# - Using with UnityEngine/UnrealEngine (Still working on this)
-* Python - Mostly using for discord bots.
-* HTML5/CSS3 - Still studying...
+## Languages & Frameworks
+* Currently able: C/C++, C#, Python, Java
+* Still working: Javascript/Typescript, Reactjs/Vuejs, HTML5/CSS3
 
 ## Programs
-* Visual Studio Code - The best code editor in the world!
-* Unity - I use this for practicing game programming.
+* Visual Studio Code
+* Unity
+* Flask
 
 ## My Projects
 - [Miniark Discord Bot](https://discord.com/api/oauth2/authorize?client_id=774280026958331905&permissions=1610477014&scope=bot)
