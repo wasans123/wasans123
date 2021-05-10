@@ -1,5 +1,6 @@
-[Youtube](https://www.youtube.com/channel/UCR62AKRcq8JhzbMTDYFBTZQ)
-[Facebook](https://www.facebook.com/profile.php?id=100041532983461)
+- [Youtube](https://www.youtube.com/channel/UCR62AKRcq8JhzbMTDYFBTZQ)
+
+- [Facebook](https://www.facebook.com/profile.php?id=100041532983461)
 
 ![](https://github-readme-stats.vercel.app/api?username=qwertyuiop0011&show_icons=true&theme=great-gatsby)
 
