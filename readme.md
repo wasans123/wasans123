@@ -25,6 +25,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:diazxc1010@gmail.com)
 
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api?username=qwertyuiop0011&show_icons=true&theme=vision-friendly-dark)
+![](https://github-readme-stats.vercel.app/api?username=qwertyuiop0011&show_icons=true&bg_color=30,e96443,904e95)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyuiop0011&langs_count=10&layout=compact&theme=vision-friendly-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyuiop0011&langs_count=10&layout=compact&bg_color=30,e96443,904e95)
