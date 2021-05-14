@@ -10,6 +10,11 @@
 [![C#](https://img.shields.io/badge/C%23-purple.svg?style=for-the-badge&logo=c-sharp)]()
 [![JAVA](https://img.shields.io/badge/JAVA-F89820.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
+## Frameworks & Libraries
+[![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Flask](https://img.shields.io/badge/FLASK-black.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![.NET](https://img.shields.io/badge/.NET-8A28E2.svg?style=for-the-badge&logo=.NET&logoColor=white)](https://docs.microsoft.com/dotnet/)
+
 - [Youtube](https://www.youtube.com/channel/UCR62AKRcq8JhzbMTDYFBTZQ)
 
 - [Facebook](https://www.facebook.com/profile.php?id=100041532983461)
