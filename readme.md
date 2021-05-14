@@ -3,6 +3,7 @@
 [![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-1F2F57.svg?style=for-the-badge&logo=c%2B%2B)]()
 
 - [Youtube](https://www.youtube.com/channel/UCR62AKRcq8JhzbMTDYFBTZQ)
 
