@@ -22,11 +22,7 @@
 [![PyCharm](https://img.shields.io/badge/PyCharm-mint.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 ## Contact
-[![GMAIL](https://img.shields.io/badge/GMAIL-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)]([GMAIL](mailto:diazxc1010@gmail.com))
-
-- [Youtube](https://www.youtube.com/channel/UCR62AKRcq8JhzbMTDYFBTZQ)
-
-- [Facebook](https://www.facebook.com/profile.php?id=100041532983461)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:diazxc1010@gmail.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=qwertyuiop0011&show_icons=true&theme=great-gatsby)
 
