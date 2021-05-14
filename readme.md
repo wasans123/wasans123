@@ -4,10 +4,11 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-264DE4.svg?style=for-the-badge&logo=css3&logoColor=white)]()
+
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-1F2F57.svg?style=for-the-badge&logo=c%2B%2B)]()
 [![C#](https://img.shields.io/badge/C%23-purple.svg?style=for-the-badge&logo=c-sharp)]()
-
+[![JAVA](https://img.shields.io/badge/JAVA-F89820.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
 - [Youtube](https://www.youtube.com/channel/UCR62AKRcq8JhzbMTDYFBTZQ)
 
