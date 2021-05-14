@@ -15,6 +15,15 @@
 [![Flask](https://img.shields.io/badge/FLASK-black.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![.NET](https://img.shields.io/badge/.NET-8A28E2.svg?style=for-the-badge&logo=.NET&logoColor=white)](https://docs.microsoft.com/dotnet/)
 
+## IDEs & Editors
+[![VSC](https://img.shields.io/badge/VSC-0078D7.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5d2b90.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC.svg?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-mint.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+
+## Contact
+[![GMAIL](https://img.shields.io/badge/GMAIL-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)]([GMAIL](mailto:diazxc1010@gmail.com))
+
 - [Youtube](https://www.youtube.com/channel/UCR62AKRcq8JhzbMTDYFBTZQ)
 
 - [Facebook](https://www.facebook.com/profile.php?id=100041532983461)
