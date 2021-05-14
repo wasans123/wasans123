@@ -22,8 +22,9 @@
 [![PyCharm](https://img.shields.io/badge/PyCharm-mint.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 ## Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:diazxc1010@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:diazxc1010@gmail.com)
 
+## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=qwertyuiop0011&show_icons=true&theme=great-gatsby)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyuiop0011&langs_count=10&layout=compact&theme=great-gatsby)
