@@ -1,5 +1,5 @@
 ## Languages
-[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white")](https://www.python.org)
+[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
 [![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -19,7 +19,7 @@
 [![VSC](https://img.shields.io/badge/VSC-0078D7.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5d2b90.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC.svg?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-mint.svg?style=for-the-badge&logo=pycharm&logoColor=white&textColor=black)](https://www.jetbrains.com/pycharm/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-mint.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:diazxc1010@gmail.com)
