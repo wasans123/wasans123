@@ -1,9 +1,14 @@
 ## Languages
+### Able to Handle
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
 [![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-3C99DC.svg?style=for-the-badge&logo=css3&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
+### Still Learning
+[![GO](https://img.shields.io/badge/GOLANG-29BEB0?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![LUA](https://img.shields.io/badge/LUA-232C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-1F2F57.svg?style=for-the-badge&logo=c%2B%2B)]()
