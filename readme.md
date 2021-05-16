@@ -2,7 +2,7 @@
 - Able to Handle
 
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
-[![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)]()
+[![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-1F2F57.svg?style=for-the-badge&logo=c%2B%2B)]()
 [![JAVA](https://img.shields.io/badge/JAVA-F89820.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
