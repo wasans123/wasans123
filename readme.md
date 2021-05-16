@@ -1,11 +1,13 @@
 ## Languages
 - Able to Handle
+
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-1F2F57.svg?style=for-the-badge&logo=c%2B%2B)]()
 [![JAVA](https://img.shields.io/badge/JAVA-F89820.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
 - Still Learning
+
 [![C#](https://img.shields.io/badge/C%23-purple.svg?style=for-the-badge&logo=c-sharp)]()
 [![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
