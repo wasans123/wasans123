@@ -10,7 +10,7 @@
 [![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![GO](https://img.shields.io/badge/GOLANG-29BEB0?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![LUA](https://img.shields.io/badge/LUA-darkblue?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![LUA](https://img.shields.io/badge/LUASCRIPT-darkblue?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
 ## Frameworks & Libraries
 [![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
