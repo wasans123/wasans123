@@ -18,7 +18,7 @@
 [![.NET](https://img.shields.io/badge/.NET-8A28E2.svg?style=for-the-badge&logo=.NET&logoColor=white)](https://docs.microsoft.com/dotnet/)
 
 ## Programs
-[![VSC](https://img.shields.io/badge/VSC-0078D7.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
+[![VSC](https://img.shields.io/badge/VSCODE-0078D7.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5d2b90.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC.svg?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Unity](https://img.shields.io/badge/UNITY-black.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
