@@ -4,7 +4,7 @@
 [![JAVA](https://img.shields.io/badge/JAVA-F89820.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Flask](https://img.shields.io/badge/FLASK-black.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![SQLITE](https://img.shields.io/badge/SQLITE-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![JSON](https://img.shields.io/badge/JSON-BCBFD6.svg?style=for-the-badge&logo=json&logoColor=black)](https://www.json.org/)
+[![JSON](https://img.shields.io/badge/JSON-BCBFD6.svg?style=for-the-badge&logo=json&logoColor=black)](https://www.json.org/) + little bit of frontend...
 
 ## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=qwertyuiop0011&show_icons=true&bg_color=30,1fffe5,fffb1f&title_color=000&text_color=000&include_all_commits=true)
