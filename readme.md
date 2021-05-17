@@ -17,7 +17,6 @@
 ## Frameworks & Libraries
 [![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Flask](https://img.shields.io/badge/FLASK-black.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![.NET](https://img.shields.io/badge/.NET-8A28E2.svg?style=for-the-badge&logo=.NET&logoColor=white)](https://docs.microsoft.com/dotnet/)
 
 ## Programs
 [![VSC](https://img.shields.io/badge/VSCODE-0078D7.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
